@@ -7,19 +7,12 @@ const Footer = () => (
         <p className="text-gray-600">
           Created by{' '}
           <a
-            href="https://twitter.com/nutlope"
+            href="https://github.com/Ashutosh102"
             className="hover:underline transition"
           >
-            Hassan
-          </a>{' '}
-          and{' '}
-          <a
-            href="https://twitter.com/kevinhou22"
-            className="hover:underline transition"
-          >
-            Kevin
+            DevAshu
           </a>
-          .
+          😎
         </p>
         <div className="flex items-center gap-x-6 text-gray-400">
           <a
