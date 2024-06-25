@@ -26,7 +26,7 @@ export default function Hero() {
             </NavLink>
             <NavLink
               target="_blank"
-              href="https://github.com/Nutlope/qrGPT"
+              href="https://github.com/Ashutosh102/qrgpt-ultra"
               className="text-gray-700 border hover:bg-gray-50"
               scroll={false}
             >
