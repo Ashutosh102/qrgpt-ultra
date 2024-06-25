@@ -252,7 +252,7 @@ const Body = ({
                       variant="outline"
                       onClick={() => {
                         navigator.clipboard.writeText(
-                          `https://qrgpt.io/start/${id || ''}`,
+                          `https://qrgpt-ultra.vercel.app/start/${id || ''}`,
                         );
                         toast.success('Link copied to clipboard');
                       }}
